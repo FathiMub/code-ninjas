@@ -1,2 +1,8 @@
 # code-ninjas
-the another hello world
+
+Hello Githubers!
+
+I'm here and i'm a newbie programing
+well this enough.
+
+bye....
